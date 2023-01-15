@@ -1,0 +1,2 @@
+# archtecture_pattern_practice
+archtecture pattern with pythonを読んで練習する為のリポジトリです.
